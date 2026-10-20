@@ -1,0 +1,4 @@
+# Standalone analyzer configuration, without an external lint package.
+analyzer:
+  exclude:
+    - build/**
